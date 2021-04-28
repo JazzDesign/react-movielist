@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: 'Muli', sans-serif;
+}
+
+.App {
+  background-image: linear-gradient(#21c08b, #8f57fd);
+  display: flex;
+  justify-content: center;
+  padding: 0px 30px;
+  min-height: 100vh;
+}
+
+.app-wrapper{
+  max-width: 1200px;
+  width: 100%;
+}
+
+
+//Common
+
+button{
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  vertical-align: middle;
+  text-decoration: none;
+
+  &.big-button{
+    background-color: #8f57fd;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+  }
+
+  &.small-button{
+    background-color: #8f57fd;
+    color: white;
+    padding: 5px;
+    width: 30px;
+    border-radius: 20px;
+  }
+
+  &.pagination-button{
+    padding: 10px;
+    border-radius: 20px;
+    width: 100px;
+    background-color: white;
+    color: #8f57fd;
+  }
+
+  &:hover{
+    background-color: red;
+    color: white;
+  }
+}
+

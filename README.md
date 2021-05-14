@@ -15,7 +15,7 @@ Built entirely:
 ## ⚒ Deploy 
 👉 https://jazzdesign.github.io/react-movielist/
 
-## 🙋 Code by me. 
+## 🙋🏽‍♂️ Code by me. 
 @jsonchicas / @JazzDesign
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
